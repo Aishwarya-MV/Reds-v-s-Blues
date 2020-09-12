@@ -6,4 +6,4 @@ The dataset was created by taking 100 screenshots of different shades of red and
 All the images were resized to 32 x 32 pixels. 
 The training data has 80 red, 80 blue images. 
 The validation set has 10 each and the test set has 10 each. 
-The model was trained for 10 epochs.
+The model was trained for 2 epochs.
